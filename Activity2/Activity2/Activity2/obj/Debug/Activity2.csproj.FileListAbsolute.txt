@@ -1,0 +1,9 @@
+c:\users\oo338\documents\visual studio 2012\Projects\Activity2\Activity2\bin\Debug\Activity2.exe.config
+c:\users\oo338\documents\visual studio 2012\Projects\Activity2\Activity2\bin\Debug\Activity2.exe
+c:\users\oo338\documents\visual studio 2012\Projects\Activity2\Activity2\bin\Debug\Activity2.pdb
+c:\users\oo338\documents\visual studio 2012\Projects\Activity2\Activity2\obj\Debug\Activity2.csprojResolveAssemblyReference.cache
+c:\users\oo338\documents\visual studio 2012\Projects\Activity2\Activity2\obj\Debug\Activity2.Form1.resources
+c:\users\oo338\documents\visual studio 2012\Projects\Activity2\Activity2\obj\Debug\Activity2.Properties.Resources.resources
+c:\users\oo338\documents\visual studio 2012\Projects\Activity2\Activity2\obj\Debug\Activity2.csproj.GenerateResource.Cache
+c:\users\oo338\documents\visual studio 2012\Projects\Activity2\Activity2\obj\Debug\Activity2.exe
+c:\users\oo338\documents\visual studio 2012\Projects\Activity2\Activity2\obj\Debug\Activity2.pdb
